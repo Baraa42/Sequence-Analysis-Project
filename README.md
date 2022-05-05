@@ -1,6 +1,6 @@
 # Sequence-Analysis-Project
 
-All the code relevant for evaluation was developped using Google Colab. The Readme include links for all notebooks.
+All the code relevant for evaluation was developped using Google Colab. The Readme include links for all notebooks. Notebooks for translation and twitter chatbot are in their respective folders. I included links to colab notebooks in the readme
 
 ## English-French Translation 
 
