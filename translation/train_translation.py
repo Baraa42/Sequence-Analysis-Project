@@ -16,7 +16,8 @@ import random
 from datetime import datetime
 
 from utils import unicodeToAscii, normalizeString, build_vocab, build_sequences
-import dataset, model
+from datasets import dataset
+from model import model
 
 nltk.download("punkt")
 
